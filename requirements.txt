@@ -1,0 +1,20 @@
+streamlit
+protobuf
+datetime
+yfinance
+numpy
+pystan==2.19.1.1
+plotly
+matplotlib
+#fbprophet==0.5
+holidays==0.9.12
+pandas
+
+
+#Comente o nome fbprophet do arquivo requirements e experimenta instalar com o Anaconda. 
+
+#Execute os comandos a seguir em sequência:
+
+#conda install -c anaconda ephem
+#conda install -c conda-forge pystan
+#conda install -c conda-forge fbprophet
